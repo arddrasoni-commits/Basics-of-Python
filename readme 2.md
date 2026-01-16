@@ -1,6 +1,6 @@
-Experiment–2
-Title
-Python Environment, Data Types, Operators, and Basic Input/Output
+#Experiment–2
+##Title
+###Python Environment, Data Types, Operators, and Basic Input/Output
 
 Aim
 To study the Python programming environment and interface, understand execution modes, variables, data types, operators, and basic input/output operations in Python.
@@ -13,7 +13,7 @@ To learn variables, identifier rules, and data types
 To study different operators and expressions
 To understand basic input and output mechanisms
 
-heory
+Theory
 1. Python Environment and Interface
 The Python environment provides tools and interfaces to write, execute, and debug Python programs. Python programs can be executed using different interfaces such as:
 Python Shell
